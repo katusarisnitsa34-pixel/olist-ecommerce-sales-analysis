@@ -1,2 +1,14 @@
-# olist-ecommerce-sales-analysis
-E-commerce sales analysis using SQL, Excel and Power BI
+项目简介：
+
+我的分析项目基于Olist公司电商数据。
+我的目标是通过SQL,Excel以及PowerBI这些数据分析工具，研究该公司的销售情况，包括每个地区销售量,销售量随着时间的变化，消费者最常用的支付方式，一年销售量最高和最低的时间段，分析订单发货延迟频次，最终根据数据分析结果提出商业建议。
+
+项目流程：
+1）在网上寻找Olist公司的数据
+2）使用 SQL 查询并汇总数据
+3）导出 SQL 查询结果。
+4）使用 Excel 分析查询结果。
+5）使用PowerBI进行数据清洁
+6）使用PowerBI做数据可视化
+7）提出商业建议
+
